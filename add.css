@@ -1,191 +1,219 @@
-
 .zz{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: aquamarine;
-  }
-  .new{
-    text-size-adjust: 200px;
-    margin: 0;
-    padding: 20px;
-    background-color: #33fdfd;
-    float:left;
-  }
-  .cont{
-    float: left;
-  }
-  
-  
-  .cont {
-    float: right;
-  }
-  .cont b{
-    float: left;
-    text-align: left;
-  }
-  
-  .cont a {
-    display: block;
-    color: rgb(17, 6, 6);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  .cont a:hover {
-    background-color: #111;
-  }
-  .first{
-     background-color: cadetblue;
-     text-align: center;
-     padding-bottom: 420px;
-     padding-right: 75px;
-  }
-  .styled-image {
-    width: 300px; 
-    border: 2px solid #000; 
-    border-radius: 10px; 
-    float: right;
- 
-}
-.btn{
-    background-color: cornflowerblue;
-}
-.sstyle-img {
-    width: 350px;
-    height: auto; 
-    float: left;
- 
-}
- .Second{
-    background-color: honeydew;
-    text-align: center;
-    padding-bottom: 420px;
-    padding-top: 50px;
-
-}
-.firsticon{
-    width: 100px; 
-    height: auto;
-    float: left;
-    padding-left: 200px;
-    padding-bottom: 1000px;
-}
-.secondicon{
-    width: 100px; 
-    height: auto; 
-    float: left;
-    padding-left: 50px;
-}
-.thirdicon{
-    width: 100px; 
-    height: auto;
-    float: left;
-    padding-left: 50px;
-}
-.fourthicon{
-    width: 100px;
-    height: auto; 
-    float: left;
-    padding-left: 50px;
-}
-.fiveicon{
-    width: 100px; 
-    height: auto; 
-    float: left;
-    padding-left: 50px;
-}
-.sixicon{
-    width: 100px; 
-    height: auto;
-    float: left;
-    padding-left: 50px;
-}
-.third{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
   background-color: cadetblue;
-  text-align: center;
-  padding-bottom: 850px;
-
-
+}
+.new{
+  text-size-adjust: 200px;
+  margin: 0;
+  padding: 20px;
+  background-color: cadetblue;
+  float:left;
+}
+.cont{
+  float: left;
 }
 
- .four{
-  background-color: honeydew;
+
+.cont {
+  float: right;
+}
+.cont b{
+  float: left;
+  text-align: left;
+}
+
+.cont a {
+  display: block;
+  color: rgb(17, 6, 6);
   text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.cont a:hover {
+  background-color: #111;
+}
+.first{
+   background-color: cadetblue;
+   text-align: center;
+   padding-bottom: 320px;
+   padding-right: 75px;
+}
+.styled-image {
+  width: 250px; 
+  
+  
+  float: right;
+  padding-top: 0px;
   padding-bottom: 100px;
 
-
-   
-  }
- 
- .five{
-  background-color: cadetblue;
-  text-align: center;
-  padding-bottom: 50px;
-  float: center;
-  padding: 100px;
 }
-.onee{
+.btn{
+  background-color: cornflowerblue;
+}
+.sstyle-img {
+  width: 350px;
+  height: auto; 
+  float: left;
+  padding-bottom: 200px;
+
+}
+.Second{
+  background-color: honeydew;
+  text-align: center;
+  padding-bottom: 420px;
+  padding-top: 50px;
+
+}
+.Hi{
+  padding-right: 300px;
+padding-bottom: 30px;
+text-align: right;
+}
+.Hii{
+  padding-right: 300px;
+padding-bottom: 30px;
+text-align: right;
+}
+.Hii{
+  padding-right: 300px;
+padding-bottom: 30px;
+text-align: right;
+}
+.firsticon{
+  width: 100px; 
+  height: auto;
+  float: left;
+  padding-left: 200px;
+  padding-bottom: 100px;
+}
+.secondicon{
+  width: 100px; 
+  height: auto; 
+  float: left;
+  padding-left: 50px;
+}
+.thirdicon{
+  width: 100px; 
+  height: auto;
+  float: left;
+  padding-left: 50px;
+}
+.fourthicon{
   width: 100px;
   height: auto; 
-  float: 0;
-  padding-left: 5px;
+  float: left;
+  padding-left: 50px;
+}
+.fiveicon{
+  width: 100px; 
+  height: auto; 
+  float: left;
+  padding-left: 50px;
+}
+.sixicon{
+  width: 100px; 
+  height: auto;
+  float: left;
+  padding-left: 50px;
+}
+.third{
+background-color: cadetblue;
+text-align: center;
+padding-bottom: 320px;
+
+
+}
+.skill{
+  padding-top: 100px;
+  text-align: center;
+}
+.skills{
+  padding-top: 20px;
+  text-align: center;
+}
+
+.four{
+background-color: honeydew;
+text-align: center;
+padding-bottom: 100px;
+
+
+ 
+}
+
+.five{
+background-color: cadetblue;
+text-align: center;
+padding-bottom: 50px;
+float: center;
+padding: 100px;
+}
+.onee{
+width: 100px;
+height: auto; 
+float: 0;
+padding-left: 5px;
 }
 
 .threee{
-  width: 100px; 
-  height: auto; 
-  padding-left: 5px;
-  float: left;
+width: 100px; 
+height: auto; 
+padding-left: 5px;
+float: left;
 }
 .fourr{
-  width: 100px;
-  height: auto; 
-  float: left;
-  padding-left: 5px;
+width: 100px;
+height: auto; 
+float: left;
+padding-left: 5px;
 }
 .fivee{
-  width: 100px; 
-  height: 100px; 
-  float: left;
-  padding-left: 5px;
+width: 100px; 
+height: 100px; 
+float: left;
+padding-left: 5px;
 }
 .sixx{
-  width: 100px;
-  height: 100px; 
-  float: left;
-  padding-left: 5px;
+width: 100px;
+height: 100px; 
+float: left;
+padding-left: 5px;
 }
 ul{
-  list-style-type: none;
+list-style-type: none;
 }
 #Table{
-  padding-right: 200px;
+padding-right: 200px;
 
 }
 #zoom {
-  padding: 50px;
-  transition: transform .2s;
-  width: 200px;
-  height: 200px;
-  }
-  #zoom:hover {
-  transform: scale(1.5);
-  }
+padding: 50px;
+transition: transform .2s;
+width: 200px;
+height: 200px;
+}
+#zoom:hover {
+transform: scale(1.5);
+}
 .copy{
-  padding-right: 650px;
+padding-right: 650px;
+text-align: left;
 }
 .hi{
-  padding-right: 300px;
-  padding-top: 20px;
+padding-right: 300px;
+padding-bottom: 20px;
+padding-top: 100px;
+
 }
 .hii{
-  padding-right: 300px;
-  padding-bottom: 30px;
+padding-right: 300px;
+padding-bottom: 30px;
 }
 .hiii{
-  padding-right: 300px;
-  padding-bottom: 30px;
+padding-right: 300px;
+padding-bottom: 30px;
 }
